@@ -25,4 +25,3 @@ En este proyecto se pusieron en practica las siguientes tecnologías y conocimie
 * Realizar busqueda de productos por nombre
 * Enviar un msj desde el formulario del footer
 
-## [Demo del sitio] (https://youtu.be/CFoQaYQtYEY)
